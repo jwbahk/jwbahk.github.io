@@ -1,10 +1,15 @@
-## About me
+## Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/jwbahk/jwbahk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
+* Name : Jiwon Bahk
+* Gender : Male
+* Date of Birth : Dec. 29th. 1992
+* Nationality : Republic of Korea
+* Affiliation : Sejong University, Seoul, Korea
+* E-mail : jwbahk92 [at] gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Educations
+* Ph.D 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
