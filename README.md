@@ -8,8 +8,11 @@
 * Affiliation : Sejong University, Seoul, Korea
 * E-mail : jwbahk92 [at] gmail.com
 
-### Educations
-* Ph.D 
+### Education
+* Department of Physics, Sejong University
+  * Ph.D candidiate in phyiscs Mar. 2017 ~ present 
+* Department of Physics, Sejong University
+  * B.Sc in physics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
