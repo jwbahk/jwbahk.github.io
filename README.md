@@ -20,7 +20,7 @@
 * Advanced Data Analytics Semi-Professional (ADSP)
 
 ### Publications
-* K.C Chun, J. Bahk, H Kim, H.-C. Jeong, and G Kim. "Classification of the metropolitan subway stations and spheres of influence of main commercial areas in Seoul.", Physica A, Vol 609, 1 Jan 2023, 128387
+* K. C. Chun, J. Bahk, H Kim, H.-C. Jeong, and G Kim. "Classification of the metropolitan subway stations and spheres of influence of main commercial areas in Seoul.", Physica A, Vol 609, 1 Jan 2023, 128387
 * J. Bahk and H.-C. Jeong. "Emergecne of cooperation through chain-reaction death." Phys. Rev. E 105 (2), 024116 (2022)
 * J. Bahk, S. K. Baek, and H.-C. Jeong. "Long-range prisoner's dilemma gaome on a cycle." Phys. Rev. E 99 (1), 012410 (2019)
   
