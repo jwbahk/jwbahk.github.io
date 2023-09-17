@@ -5,7 +5,7 @@
 * Gender : Male
 * Date of Birth : Dec. 29th. 1992
 * Nationality : Republic of Korea
-* Affiliation : Sejong University, Seoul, Korea
+* Affiliation : Pluto Labs, Seoul, Korea
 * E-mail : jwbahk92 [at] gmail.com
 
 ### Education
@@ -15,6 +15,10 @@
   * Advisor : Professor. Hyeong-Chai Jeong
 * Department of Physics, Sejong University
   * _B.Sc in physics Mar. 2011 ~ Feb. 2017 [including military service]_
+
+### Current Poistion
+* Researcher at Pluto Labs
+  * Since Sep. 2023 
 
 ### Certificate
 * Advanced Data Analytics Semi-Professional (ADSP)
