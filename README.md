@@ -16,9 +16,9 @@
 * Department of Physics, Sejong University
   * _B.Sc in physics Mar. 2011 ~ Feb. 2017 [including military service]_
 
-### Current Poistion
+### Current Position
 * Researcher at Pluto Labs
-  * Since Sep. 2023 
+  * Since _Sep. 2023_ 
 
 ### Certificate
 * Advanced Data Analytics Semi-Professional (ADSP)
