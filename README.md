@@ -5,7 +5,7 @@
 * Gender : Male
 * Date of Birth : Dec. 29th. 1992
 * Nationality : Republic of Korea
-* Affiliation : Pluto Labs, Seoul, Korea
+* Affiliation : Pluto Labs, Inc., Seoul, Korea
 * E-mail : jwbahk92 [at] gmail.com
 
 ### Education
@@ -17,7 +17,7 @@
   * _B.Sc in physics Mar. 2011 ~ Feb. 2017 [including military service]_
 
 ### Current Position
-* Researcher at Pluto Labs
+* Researcher at Pluto Labs, Inc.
   * Since _Sep. 2023_ 
 
 ### Certificate
