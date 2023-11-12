@@ -14,7 +14,8 @@
   * Thesis : Networks and the evolution of cooperation in social dilemmas
   * Advisor : Professor. Hyeong-Chai Jeong
 * Department of Physics, Sejong University
-  * _B.Sc in Physics Mar. 2011 ~ Feb. 2017 [including military service]_
+  * _B.Sc in Physics Mar. 2011 ~ Feb. 2017
+  * [including military service]_
 
 ### Current Position
 * Researcher at Pluto Labs, Inc.
