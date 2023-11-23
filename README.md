@@ -19,10 +19,18 @@
 
 ### Current Position
 * Researcher at Pluto Labs, Inc.
-  * Since _Sep. 2023_ 
-
+  * Since _Sep. 2023_
+  * Our product : https://beta.scinapse.io/
+  * Please use our research intelligence tool!
+ 
 ### Certificate
 * Advanced Data Analytics Semi-Professional (ADSP)
+
+### Skills
+* C/C++
+* Parallel computing (open-mp, open-mpi)
+* Python
+* MySQL
 
 ### Publications
 * K. C. Chun, <U>J. Bahk</U>, H Kim, H.-C. Jeong, and G Kim. "Classification of the metropolitan subway stations and spheres of influence of main commercial areas in Seoul.", Physica A, Vol 609, 1 Jan 2023, 128387
