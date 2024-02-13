@@ -12,7 +12,7 @@
 * Department of Physics, Sejong University
   * _Ph.D. in Physics Mar. 2017 ~ Feb. 2023_
   * Thesis : Networks and the evolution of cooperation in social dilemmas
-  * Advisor : Professor. Hyeong-Chai Jeong
+  * Advisor : Professor Hyeong-Chai Jeong
 * Department of Physics, Sejong University
   * _B.Sc in Physics Mar. 2011 ~ Feb. 2017_
   * Military service _Feb. 2013 ~ Nov. 2014_
