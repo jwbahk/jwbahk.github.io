@@ -20,7 +20,7 @@
 ### Current Position
 * Researcher at Pluto Labs, Inc.
   * Since _Sep. 2023_
-  * Our product : [scinapse](https://www.scinapse.io/)
+  * Our product : [scinapse.io](https://www.scinapse.io/)
   * Please use our research intelligence tool!
  
 ### Certificate
