@@ -18,10 +18,13 @@
   * Military service _Feb. 2013 ~ Nov. 2014_
 
 ### Current Position
+* Postdoctoral Researcehr at Korea Institute of Science and Technology Information
+   * Center for Policy Research, Division of Policy and Strategy
+   * Since _Jul. 2025_
+ 
+### Former Position
 * Researcher at Pluto Labs, Inc.
-  * Since _Sep. 2023_
-  * Our product : [scinapse.io](https://www.scinapse.io/)
-  * Please use our research intelligence tool!
+  * _Sep. 2023 - Jul. 2025_
  
 ### Certificate
 * Advanced Data Analytics Semi-Professional (ADSP)
